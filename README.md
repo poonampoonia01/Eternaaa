@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Order Execution Engine
 
 Backend system for executing limit orders on DEXs (Raydium and Meteora). Monitors prices and executes when target price is reached. Uses WebSocket for real-time status updates and BullMQ for queue processing.
